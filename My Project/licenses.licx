@@ -1,0 +1,6 @@
+Spire.DataExport.TXT.TXTExport, Spire.DataExport, Version=3.2.1.3, Culture=neutral, PublicKeyToken=4ce5fd19e1a3a67d
+Spire.DataExport.PDF.PDFExport, Spire.DataExport, Version=3.2.1.3, Culture=neutral, PublicKeyToken=4ce5fd19e1a3a67d
+Spire.DataExport.RTF.RTFExport, Spire.DataExport, Version=3.2.1.3, Culture=neutral, PublicKeyToken=4ce5fd19e1a3a67d
+Spire.DataExport.XML.XMLExport, Spire.DataExport, Version=3.2.1.3, Culture=neutral, PublicKeyToken=4ce5fd19e1a3a67d
+Spire.DataExport.HTML.HTMLExport, Spire.DataExport, Version=3.2.1.3, Culture=neutral, PublicKeyToken=4ce5fd19e1a3a67d
+Spire.DataExport.XLS.CellExport, Spire.DataExport, Version=3.2.1.3, Culture=neutral, PublicKeyToken=4ce5fd19e1a3a67d
